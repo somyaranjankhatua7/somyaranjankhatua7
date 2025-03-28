@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm CipherByte 👋</h1>
+<h1 align="center">Hey, I'm Somya Ranjan Khatua 👋</h1>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=CipherByte&label=Profile%20views&color=0e75b6&style=flat" alt="CipherByte" /> 
@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/yourhandle/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a> -->
 </p>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZ6OG1wN3VwbGs4Zm96enAzOXo3OXpvcjJyeXpsd3AwbnZ3eW9haCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QnU6mOrBbElaIQz4Fe/giphy.gif" align="right" width="40%"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZ6OG1wN3VwbGs4Zm96enAzOXo3OXpvcjJyeXpsd3AwbnZ3eW9haCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QnU6mOrBbElaIQz4Fe/giphy.gif" align="right" width="40%" style="border-radius: 55px;"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
