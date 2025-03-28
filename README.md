@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm CipherByte 👋</h1>
+<h1 align="center">Hey, I'm Somya Ranjan Khatua 👋</h1>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=CipherByte&label=Profile%20views&color=0e75b6&style=flat" alt="CipherByte" /> 
